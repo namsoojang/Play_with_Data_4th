@@ -62,6 +62,4 @@
  - [기타 준비하면 좋을 내용들]
    - 쥬피터노트북 사용법 / 마크다운 문서 사용법 연습
    - GIthub 에 발표자료 올리기
-       Github 주소: https://github.com/namsoojang/Play_with_Data_3rd
-      ※ 페이지 watch or star 누르시면 작성 권한 요청드리겠습니다. 
    - Source Tree 로 Github 편하게 사용가능합니다. 
