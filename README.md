@@ -8,7 +8,7 @@
  - 교재: Hands-On Machine Learning with Scikit-Learn and TensorFlow 
  - [ 교재Link](http://www.yes24.com/24/goods/59878826?)
  - [ Source(github)](https://github.com/rickiepark/handson-ml)
- - [ Source(JuypyterNotebook)] (https://nbviewer.jupyter.org/github/rickiepark/handson-ml/tree/master/)
+ - [ Source(JuypyterNotebook)](https://nbviewer.jupyter.org/github/rickiepark/handson-ml/tree/master/)
  - [ 목차 및 참석여부 정리(구글드라이브)](https://docs.google.com/spreadsheets/d/122X3JdIId3DEypwHxqkM-Z8OtCCuQgLlBjuaZ0xBvkY/edit#gid=2048609009)
  - 스터디인원: 10명
  - 비용: 48천원(2천원 x 2시간 x 12회)  ※ 시간당 3천원의 TV 장비 대여료 별도
